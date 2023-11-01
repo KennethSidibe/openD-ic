@@ -1,3 +1,27 @@
+# openD-IC
+
+openD-IC is a decentralized platform inspired by openSea, built with a genuine cryptographic backend. Utilizing Motoko and the Internet Computer, it manages backend operations such as NFT purchases and ownership transfers. The frontend is crafted using React, ensuring a seamless user experience.
+
+## Tech Stack
+
+- Frontend: React
+- Backend: Motoko
+
+## Features
+
+- Purchase NFTs
+- Transfer NFT ownership
+
+## Setup and Installation
+
+(TBC: Add setup and installation instructions here)
+
+## Contributing
+
+Feel free to submit issues and enhancement requests.
+
+## License
+
 Copyright 2022 London App Brewery LTD (www.appbrewery.com)
 
 The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
