@@ -14,11 +14,20 @@ openD-IC is a decentralized platform inspired by openSea, built with a genuine c
 
 ## Setup and Installation
 
-(TBC: Add setup and installation instructions here)
+TO-DO
+
+# IMPORTANT
+
+The deployment process is quite difficult and I would strongly discourage to do so. The front end works fine though, but trying to interact with the interface might make crash the system.
+To try the front end, run. 
+
+npm install
+
+npm start
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests.
+TO-DO
 
 ## License
 
